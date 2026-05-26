@@ -1,1 +1,3 @@
 # base-builder.log
+
+> connecting to Base...
